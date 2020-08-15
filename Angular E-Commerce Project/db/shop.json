@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+    },
+    {
+      "id": 1,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 1,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Klavye",
+      "price": 45,
+      "categoryId": 2,
+      "description": "Logitech",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Klavye",
+      "price": 45,
+      "categoryId": 1,
+      "description": "Logitech",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+    },
+    {
+      "name": "asus",
+      "description": "Laptop Yeni",
+      "imageUrl": "Laptop",
+      "price": "115",
+      "categoryId": "1",
+      "id": 3
+    },
+    {
+      "name": "asus",
+      "description": "Laptop Yeni",
+      "imageUrl": "Laptop",
+      "price": "115",
+      "categoryId": "1",
+      "id": 4
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Arçeklik A sınıfı no-frost",
+      "imageUrl": "https://cdn.cimri.io/image/1000x1000/arelikceialtkombitipibuzdolab_184401354.jpg",
+      "price": "5800",
+      "categoryId": "2",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
+}
